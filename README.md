@@ -26,5 +26,8 @@
  <a href="https://discord.gg/td7t8ufSea" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "raphael.zargos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Zargos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+![Snake animation](https://github.com/rzargos/rzargos/blob/output/github-contribution-grid-snake.svg)    
 </div>  
+  
 
