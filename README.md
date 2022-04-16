@@ -1,6 +1,6 @@
 ### Hi there 👋 I´m Raphael Zargos
 
-- 🔭 I’m currently working on SAM24h, it´s a TOP1 Iot Startup
+- 🔭 I’m currently working on SAM24h, it´s a TOP1 IoT Startup
 - 🌱 I’m currently learning javaScript
 - 📫 How to reach me: raphael.zargos@gmail.com
 - 😄 Pronouns: he/him
@@ -19,6 +19,7 @@
 </div>
   
   ##
+  
 <div>
    <a href="https://wa.me/5531988189763" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/raphaelzmpd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
