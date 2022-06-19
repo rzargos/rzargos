@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Raphael Zargos
 
 - 🔭 I’m currently working on SAM24h, it´s a TOP1 IoT Startup
-- 🌱 I’m a JavaScript development
+- 🌱 I’m a JavaScript developer
 - 📫 How to reach me: raphael.zargos@gmail.com
 - 😄 Pronouns: he/him
 
